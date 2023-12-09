@@ -1,4 +1,4 @@
-# helloforest
+# HELLO, FOREST!
 Hello, this is my proyect: Hello Forest✌️
 
 Es un proyecto sencillo donde se muestra un texto con una palabra tachada y posteriormente abajo se muestra un boton con un URL que (para mi) significa un descanso.
